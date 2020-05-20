@@ -5,7 +5,7 @@ const bot = new discord.Client()
 
 const queue = new Map()
 
-const token = 'Njk5MTQ4NTM3MTA3MzE2ODA2.XpQLUg.WGVGwaBabQNP5dKi9UZLE55NT_Q'
+const token;
 
 const prefix = "!"
 
