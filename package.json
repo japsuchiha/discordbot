@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "gaalidega bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "japsuchiha",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^2.0.1"
+  }
+}
